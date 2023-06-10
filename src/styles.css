@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.carousel-container {
+  height: 100vh;
+}
+.carousel-data {
+  height: 80%;
+}
+.button-container {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  bottom: 55%;
+}
